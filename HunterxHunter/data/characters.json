@@ -1,0 +1,49 @@
+[
+  { "name": "Гон",
+   "age": 15,
+    "photo": "../images/Gon-2011.png",
+    "photoFull": "../images/Gon-2011.png",
+     "bio": "Главный герой. Сын легендарного охотника Джина",
+     "voiceClip": "../audio/gons-little-feets.mp3"
+  },
+  {
+    "name": "Хисока",
+    "age": 28,
+    "photo": "../images/Hisoka_PR_Movie.png",
+    "photoFull": "../images/Hisoka_PR_Movie.png",
+    "bio": "Один из главных антагонистов. Маг и боец, использующий Нэн типа Трансмутация. Любит сражаться с сильными противниками и получает удовольствие от боя.",
+    "voiceClip": "../audio/hisoka.mp3"
+  },
+  {
+    "name": "Леорио",
+    "age": 19,
+    "photo": "../images/Leorio-2011.png",
+    "photoFull": "../images/Leorio-2011.png",
+    "bio": "Друг Гона. Стремится стать врачом, чтобы помогать людям. Использует Нэн типа Излучение. Обладает вспыльчивым характером, но добрым сердцем.",
+    "voiceClip": "../audio/leorio-stare (1).mp3"
+  },
+  {
+    "name": "Курапика",
+    "age": 17,
+    "photo": "../images/KurapikaFullbody.png",
+    "photoFull": "../images/KurapikaFullbody.png",
+    "bio": "Последний выживший из клана Курта. Его цель — отомстить Призрачной Труппе. Специалист Нэн с уникальными цепями, активирующимися при алых глазах.",
+    "voiceClip": "../audio/pr-sumimasen-yurushitekudasai.mp3"
+  },
+  {
+    "name": "Кролло Люцифер",
+    "age": 26,
+    "photo": "../images/Chrollo_Lucilfer_2011.png",
+    "photoFull": "../images/Chrollo_Lucilfer_2011.png",
+    "bio": "Лидер Призрачной Труппы. Специалист Нэн, способный красть способности других. Хладнокровный и стратегически мыслящий преступник.",
+    "voiceClip": "../audio/chrollo.mp3"
+  },
+  {
+    "name": "Киллуа",
+    "age": 15,
+    "photo": "../images/Killua-2011.png",
+    "photoFull": "../images/Killua-2011.png",
+    "bio": "Лучший друг Гона. Происходит из семьи профессиональных убийц Золдик. Использует Нэн типа Трансмутация, владеет электрическими атаками.",
+    "voiceClip": "../audio/Voicy_Killua says _baka_.mp3"
+  }
+]

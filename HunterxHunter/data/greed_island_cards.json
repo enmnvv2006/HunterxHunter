@@ -1,0 +1,1460 @@
+[
+  {
+    "id": "No. 000",
+    "number": 0,
+    "name": "Ruler's Blessing",
+    "rarity": "SS",
+    "type": "Designated Slot",
+    "effect": "Ruler's Blessing (支配者の祝福) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game. This is the rarest...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/5/54/Ruler%27s_Blessing_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/427?cb=20131202170452"
+  },
+  {
+    "id": "No. 001",
+    "number": 1,
+    "name": "Patch of Forest",
+    "rarity": "SS",
+    "type": "Designated Slot",
+    "effect": "Patch of Forest (一坪の密林) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game. This card contains a...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/e/e5/Patch_of_Forest_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/437?cb=20131202201652"
+  },
+  {
+    "id": "No. 002",
+    "number": 2,
+    "name": "Plot of Beach",
+    "rarity": "SS",
+    "type": "Designated Slot",
+    "effect": "Plot of Beach (一坪の海岸線) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game. To obtain this card a...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/b/be/Patch_of_Shore_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/437?cb=20131202204353"
+  },
+  {
+    "id": "No. 003",
+    "number": 3,
+    "name": "Pitcher of Eternal Water",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "Pitcher of Eternal Water (湧き水の壺) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game. This pitche...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/3/3d/Pitcher_of_Eternal_Water_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/432?cb=20131202205733"
+  },
+  {
+    "id": "No. 004",
+    "number": 4,
+    "name": "Skin Care Hot Springs",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "Skin Care Hot Springs (美肌温泉) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game. It brings forth...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/c/cf/Skin_Care_Hot_Springs_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/432?cb=20131202211313"
+  },
+  {
+    "id": "No. 005",
+    "number": 5,
+    "name": "Spirited Away Hollow",
+    "rarity": "S",
+    "type": "Designated Slot",
+    "effect": "Spirited Away Hollow (神隠しの洞) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game. It contains a H...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/1/1d/Spirited_Away_Hollow_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/427?cb=20131202212945"
+  },
+  {
+    "id": "No. 006",
+    "number": 6,
+    "name": "Liquor Spring",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "Liquor Spring (酒生みの泉) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game. It can turn water into...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/a/a2/Liquor_Spring_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/436?cb=20131202222422"
+  },
+  {
+    "id": "No. 007",
+    "number": 7,
+    "name": "Pregnancy Stones",
+    "rarity": "S",
+    "type": "Designated Slot",
+    "effect": "Pregnancy Stones (身重の石) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game. These stones allow a...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/c/cb/Pregnancy_Stones_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/434?cb=20131202223934"
+  },
+  {
+    "id": "No. 008",
+    "number": 8,
+    "name": "Mystery Pond",
+    "rarity": "S",
+    "type": "Designated Slot",
+    "effect": "Mystery Pond 不思議ヶ池 - is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and so is required for a player to complete the game. It summons forth a m...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/9/94/Mystery_Pond_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/435?cb=20131202225348"
+  },
+  {
+    "id": "No. 009",
+    "number": 9,
+    "name": "Tree of Plenty",
+    "rarity": "S",
+    "type": "Designated Slot",
+    "effect": "Tree of Plenty 豊作の樹 - is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and so is required for a player to complete the game. This tree will bear...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/0/0c/Tree_of_Plenty_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20150922083047"
+  },
+  {
+    "id": "No. 010",
+    "number": 10,
+    "name": "Golden Guidebook",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "Golden Guidebook (黄金るるぶ) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game. It summons a book w...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/9/97/Golden_Guidebook_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/432?cb=20150922185339"
+  },
+  {
+    "id": "No. 011",
+    "number": 11,
+    "name": "Golden Scales",
+    "rarity": "B",
+    "type": "Designated Slot",
+    "effect": "Golden Scales (黄金天秤) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game. These scales will show...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/6/6d/Golden_Scales_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/432?cb=20131202232202"
+  },
+  {
+    "id": "No. 012",
+    "number": 12,
+    "name": "Golden Dictionary",
+    "rarity": "S",
+    "type": "Designated Slot",
+    "effect": "Golden Dictionary (黄金辞典) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game. This dictionary pro...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/6/60/Golden_Dictionary_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/436?cb=20131203203440"
+  },
+  {
+    "id": "No. 013",
+    "number": 13,
+    "name": "Luck Bankbook",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "Luck Bankbook (幸運通帳) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game. This book allows you to...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/5/54/Luck_Bankbook_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/434?cb=20150922085413"
+  },
+  {
+    "id": "No. 014",
+    "number": 14,
+    "name": "Connection Severing Scissors",
+    "rarity": "B",
+    "type": "Designated Slot",
+    "effect": "Connection Severing Scissors (縁切り鋏) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/5/5f/Connection_Severing_Scissors_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/434?cb=20131203210541"
+  },
+  {
+    "id": "No. 015",
+    "number": 15,
+    "name": "Fickle Genie",
+    "rarity": "S",
+    "type": "Designated Slot",
+    "effect": "Fickle Genie (, ''Kimagure Majin'') is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and so is required for a player to complete the game. This...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/0/01/Fickle_Genie_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/432?cb=20131203211833"
+  },
+  {
+    "id": "No. 016",
+    "number": 16,
+    "name": "Fairy King's Advice",
+    "rarity": "S",
+    "type": "Designated Slot",
+    "effect": "Fairy King's Advice 妖精王の忠告 - is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and so is required for a player to complete the game. This fairy's...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/9/95/Fairy_King%27s_Advice_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/433?cb=20131203213136"
+  },
+  {
+    "id": "No. 017",
+    "number": 17,
+    "name": "Angel's Breath",
+    "rarity": "SS",
+    "type": "Designated Slot",
+    "effect": "Angel's Breath (, ''Daitenshi no Ibuki''—lit. \"Breath of Archangel\") is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and so is required for a p...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/a/a1/Breath_of_Archangel_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/434?cb=20131203214616"
+  },
+  {
+    "id": "No. 018",
+    "number": 18,
+    "name": "Imp's Wink",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "Imp's Wink (小悪魔のウインク) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game. If caught by the Imp's...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/8/86/Imp%27s_Wink_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/436?cb=20131203220159"
+  },
+  {
+    "id": "No. 019",
+    "number": 19,
+    "name": "Poltergeist Pillow",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "Poltergeist Pillow 遊魂枕 - is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and so is required for a player to complete the game. This pillow allo...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/e/ee/Poltergeist_Pillow_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/434?cb=20150922084902"
+  },
+  {
+    "id": "No. 020",
+    "number": 20,
+    "name": "Mood Clock",
+    "rarity": "B",
+    "type": "Designated Slot",
+    "effect": "Mood Clock 心度計 - is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and as such is required for a player to complete the game. It allows the owner...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/d/d1/Mood_Clock_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/437?cb=20131203222652"
+  },
+  {
+    "id": "No. 021",
+    "number": 21,
+    "name": "X-Ray Goggles",
+    "rarity": "B",
+    "type": "Designated Slot",
+    "effect": "X-Ray Goggles (スケルトンメガネ) a card found in the Greed Island game. It is one of the game's 100 designated slot cards and so is required for a player to complete the game. These glasses allow...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/a/a5/X-Ray_Goggles_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/433?cb=20131206155034"
+  },
+  {
+    "id": "No. 022",
+    "number": 22,
+    "name": "Toraemon",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "Toraemon (トラエモン, ''Toraemon'') is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game. This endanger...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/f/fd/Toraemon_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/432?cb=20131209225908"
+  },
+  {
+    "id": "No. 023",
+    "number": 23,
+    "name": "Tome of a Thousand Tales",
+    "rarity": "B",
+    "type": "Designated Slot",
+    "effect": "Tome of a Thousand Tales アドリブブック - is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and so is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/2/24/Tome_of_a_Thousand_Tales_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/430?cb=20131209230724"
+  },
+  {
+    "id": "No. 024",
+    "number": 24,
+    "name": "Hypothetical T.V.",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "Hypothetical T.V. (もしもテレビ) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/a/ab/Hypothetical_T.V._%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/432?cb=20131209231224"
+  },
+  {
+    "id": "No. 025",
+    "number": 25,
+    "name": "Risky Dice",
+    "rarity": "B",
+    "type": "Designated Slot",
+    "effect": "Risky Dice (リスキーダイス, ''Risukī Daisu'') is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game. It al...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/1/1c/Risky_Dice_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/434?cb=20150922084401"
+  },
+  {
+    "id": "No. 026",
+    "number": 26,
+    "name": "Night Shift Dwarves",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "Night Shift Dwarves (７人の働く小人) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game. These seven dw...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/7/78/Night_Shift_Dwarves_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/436?cb=20150922085215"
+  },
+  {
+    "id": "No. 027",
+    "number": 27,
+    "name": "Book of V.I.P. Passes",
+    "rarity": "B",
+    "type": "Designated Slot",
+    "effect": "Book of V.I.P. Passes 顔パス回数券 - is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and so is required for a player to complete the game. It allows...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/0/06/Book_of_V.I.P_Passes_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/435?cb=20131209234347"
+  },
+  {
+    "id": "No. 028",
+    "number": 28,
+    "name": "Capricious Remote",
+    "rarity": "B",
+    "type": "Designated Slot",
+    "effect": "Capricious Remote 移り気リモコン - is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and so is required for a player to complete the game. This remote a...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/8/8b/Capricious_Remote_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/437?cb=20131209235218"
+  },
+  {
+    "id": "No. 029",
+    "number": 29,
+    "name": "Pre-Order Vouchers",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "Pre-Order Vouchers (強制予約券) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game. These vouchers wh...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/2/2c/Pre-Order_Vouchers_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/434?cb=20131210000031"
+  },
+  {
+    "id": "No. 030",
+    "number": 30,
+    "name": "Favor Cushion",
+    "rarity": "B",
+    "type": "Designated Slot",
+    "effect": "Favor Cushion コネクッション - is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and so is required for a player to complete the game. Sitting someone o...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/c/c3/Favor_Cushion_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/430?cb=20131226170845"
+  },
+  {
+    "id": "No. 031",
+    "number": 31,
+    "name": "Double Postcard to the Dead",
+    "rarity": "S",
+    "type": "Designated Slot",
+    "effect": "Double Postcard to the Dead 死者への往復葉書 - is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and so is required for a player to complete the game. Th...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/8/89/Double_Postcard_to_the_Dead_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/434?cb=20131226172404"
+  },
+  {
+    "id": "No. 032",
+    "number": 32,
+    "name": "Parrot Candy",
+    "rarity": "B",
+    "type": "Designated Slot",
+    "effect": "Parrot Candy ウグイスキャンディー - is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and so is required for a player to complete the game. This candy, whe...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/7/7c/Parrot_Candy_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/430?cb=20131226173448"
+  },
+  {
+    "id": "No. 033",
+    "number": 33,
+    "name": "Hormone Cookies",
+    "rarity": "S",
+    "type": "Designated Slot",
+    "effect": "Hormone Cookies ホルモンクッキー - is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and so is required for a player to complete the game. These cookies...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/7/7c/Hormone_Cookies_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20131226174720"
+  },
+  {
+    "id": "No. 034",
+    "number": 34,
+    "name": "Universal Survey",
+    "rarity": "B",
+    "type": "Designated Slot",
+    "effect": "Universal Survey (なんでもアンケート) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game. Give this surve...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/d/d7/Universal_Survey_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/429?cb=20131226183647"
+  },
+  {
+    "id": "No. 035",
+    "number": 35,
+    "name": "Chameleon Cat",
+    "rarity": "S",
+    "type": "Designated Slot",
+    "effect": "Chameleon Cat (カメレオンキャット, ''Kamereon Kyatto'') is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the gam...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/a/af/Chameleon_Cat_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/430?cb=20131226185524"
+  },
+  {
+    "id": "No. 036",
+    "number": 36,
+    "name": "Recycling Room",
+    "rarity": "S",
+    "type": "Designated Slot",
+    "effect": "Recycling Room (リサイクルルーム, ''Risaikuru Rūmu'') is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/7/7e/Recycling_Room_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/433?cb=20140101190757"
+  },
+  {
+    "id": "No. 037",
+    "number": 37,
+    "name": "Fledgling Athlete",
+    "rarity": "B",
+    "type": "Designated Slot",
+    "effect": "Fledgling Athlete (超一流スポーツ選手の卵) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game. This egg whe...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/e/e3/Fledgling_Athlete_%28G.I_card%29.png/revision/latest/scale-to-width-down/433?cb=20140101193712"
+  },
+  {
+    "id": "No. 038",
+    "number": 38,
+    "name": "Fledgling Artist",
+    "rarity": "B",
+    "type": "Designated Slot",
+    "effect": "Fledgling Artist (超一流アーティストの卵) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game. Once this egg...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/f/f9/Fledgling_Artist_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20150922185756"
+  },
+  {
+    "id": "No. 039",
+    "number": 39,
+    "name": "Fledgling Politician",
+    "rarity": "B",
+    "type": "Designated Slot",
+    "effect": "Fledgling Politician (大物政治家の卵) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game. When this egg...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/9/93/Fledgling_Politician_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20140109173015"
+  },
+  {
+    "id": "No. 040",
+    "number": 40,
+    "name": "Fledgling Musician",
+    "rarity": "B",
+    "type": "Designated Slot",
+    "effect": "Fledgling Musician (超一流ミュージシャンの卵) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game. When this...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/4/4a/Fledgling_Musician_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20150922185526"
+  },
+  {
+    "id": "No. 041",
+    "number": 41,
+    "name": "Fledgling Pilot",
+    "rarity": "B",
+    "type": "Designated Slot",
+    "effect": "Fledgling Pilot (超一流パイロットの卵) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game. Once this egg h...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/a/af/Fledgling_Pilot_%28G.I_card%29_41.png/revision/latest/scale-to-width-down/480?cb=20160525171227"
+  },
+  {
+    "id": "No. 042",
+    "number": 42,
+    "name": "Fledgling Novelist",
+    "rarity": "B",
+    "type": "Designated Slot",
+    "effect": "Fledgling Novelist (超一流作家の卵) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game. This egg when h...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/7/7d/Fledgling_Novelist_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20140120200530"
+  },
+  {
+    "id": "No. 043",
+    "number": 43,
+    "name": "Fledgling Gambler",
+    "rarity": "B",
+    "type": "Designated Slot",
+    "effect": "Fledgling Gambler (大ギャンブラーの卵) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game. When this egg...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/8/89/Fledgling_Gambler_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/427?cb=20140120200741"
+  },
+  {
+    "id": "No. 044",
+    "number": 44,
+    "name": "Fledgling Actor",
+    "rarity": "B",
+    "type": "Designated Slot",
+    "effect": "Fledgling Actor (大俳優の卵) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/b/b0/Fledgling_Actor_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/430?cb=20140120201217"
+  },
+  {
+    "id": "No. 045",
+    "number": 45,
+    "name": "Fledgling CEO",
+    "rarity": "B",
+    "type": "Designated Slot",
+    "effect": "Fledgling CEO (大社長の卵) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/f/f2/Fledgling_CEO_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/430?cb=20140120201507"
+  },
+  {
+    "id": "No. 046",
+    "number": 46,
+    "name": "Gold Dust Girl",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "Gold Dust Girl (, ''Kinpun Shōjo'') is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/7/7d/Gold_Dust_Girl_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/430?cb=20140120201645"
+  },
+  {
+    "id": "No. 047",
+    "number": 47,
+    "name": "Sleeping Girl",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "Sleeping Girl 睡眠少女 - is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and so is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/6/67/Sleeping_Girl_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/432?cb=20140120201856"
+  },
+  {
+    "id": "No. 048",
+    "number": 48,
+    "name": "Aromatherapy Girl",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "Aromatherapy Girl 発香少女 - is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is thus required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/0/0c/Aromatherapy_Girl_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/428?cb=20140120202013"
+  },
+  {
+    "id": "No. 049",
+    "number": 49,
+    "name": "Miniature Mermaid",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "Miniature Mermaid (手乗り人魚) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/8/8e/Miniature_Mermaid_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/428?cb=20140120202209"
+  },
+  {
+    "id": "No. 050",
+    "number": 50,
+    "name": "Miniature Dino",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "Miniature Dino (手乗りザウルス) ''(A.K.A Palmtop Dino)'' is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/7/76/Miniature_Dino_%28G.I_card%29_50.png/revision/latest/scale-to-width-down/480?cb=20160525173040"
+  },
+  {
+    "id": "No. 051",
+    "number": 51,
+    "name": "Miniature Dragon",
+    "rarity": "S",
+    "type": "Designated Slot",
+    "effect": "Miniature Dragon (手乗りドラゴン) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/7/7f/Miniature_Dragon_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/429?cb=20140120202531"
+  },
+  {
+    "id": "No. 052",
+    "number": 52,
+    "name": "Pearl Locusts",
+    "rarity": "B",
+    "type": "Designated Slot",
+    "effect": "Pearl Locusts 真珠蝗 - is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and so is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/a/af/Pearl_Locusts_GI_Card_52.png/revision/latest/scale-to-width-down/480?cb=20150915115626"
+  },
+  {
+    "id": "No. 053",
+    "number": 53,
+    "name": "King White Stag Beetle",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "King White Stag Beetle (キングホワイトオオクワガタ, ''Kingu Howaito Ōkuwagata'') is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and so is required for a pl...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/7/7e/King_Great_White_Beetle_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/428?cb=20140120203109"
+  },
+  {
+    "id": "No. 054",
+    "number": 54,
+    "name": "Millennium Butterfly",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "Millennium Butterfly 年アゲハ - is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and so is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/b/b2/Millennium_Butterfly_%28G.I_card%29_54.png/revision/latest/scale-to-width-down/480?cb=20160525173100"
+  },
+  {
+    "id": "No. 055",
+    "number": 55,
+    "name": "Revenge Shop",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "Revenge Shop (しかえししょうてん, ''Shikaeshi Shōten'') is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/0/05/Revenge_Shop_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20150922084613"
+  },
+  {
+    "id": "No. 056",
+    "number": 56,
+    "name": "Perfect Memory Studio",
+    "rarity": "B",
+    "type": "Designated Slot",
+    "effect": "Perfect Memory Studio 思い出写真館 - is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and so is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/f/fd/Perfect_Memory_Studio_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/432?cb=20150922085048"
+  },
+  {
+    "id": "No. 057",
+    "number": 57,
+    "name": "Hideout Realtor",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "Hideout Realtor 隠れ家不動産 - is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/7/72/Hideout_Realtor_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/429?cb=20140120204019"
+  },
+  {
+    "id": "No. 058",
+    "number": 58,
+    "name": "Secrets Video Rental",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "Secrets Video Rental レンタル秘密ビデオ店 - is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and so is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/c/c2/Secrets_Video_Rental_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/430?cb=20150922084232"
+  },
+  {
+    "id": "No. 059",
+    "number": 59,
+    "name": "Instant Foreign Language School",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "Instant Foreign Language School (即席外語スクール) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/0/01/Instant_Foreign_Language_School_%28G.I_card%29_59.png/revision/latest/scale-to-width-down/480?cb=20160525171345"
+  },
+  {
+    "id": "No. 060",
+    "number": 60,
+    "name": "Long Lost Delivery",
+    "rarity": "B",
+    "type": "Designated Slot",
+    "effect": "Long Lost Delivery (失し物宅配便) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/9/9e/Long_Lost_Delivery_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/428?cb=20140217171858"
+  },
+  {
+    "id": "No. 061",
+    "number": 61,
+    "name": "Vending Check-Up",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "Vending Check-Up (コインドック) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/f/fb/Vending_Check_Up_Rule_GI_Card_61.png/revision/latest/scale-to-width-down/480?cb=20150917122147"
+  },
+  {
+    "id": "No. 062",
+    "number": 62,
+    "name": "Club \"You Rule\"",
+    "rarity": "B",
+    "type": "Designated Slot",
+    "effect": "Club \"You Rule\" クラブ王様 - is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and so is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/d/dd/Club_You_Rule_GI_Card_62.png/revision/latest/scale-to-width-down/480?cb=20150922190924"
+  },
+  {
+    "id": "No. 063",
+    "number": 63,
+    "name": "Virtual Restaurant",
+    "rarity": "B",
+    "type": "Designated Slot",
+    "effect": "Virtual Restaurant バーチャルレストラン - is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and as such is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/5/57/Virtual_Restaurant_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/429?cb=20140217172900"
+  },
+  {
+    "id": "No. 064",
+    "number": 64,
+    "name": "Witch's Love Potion",
+    "rarity": "B",
+    "type": "Designated Slot",
+    "effect": "Witch's Love Potion 魔女の媚薬 - is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and so is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/9/9f/Witch%27s_Love_Potion_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/429?cb=20140217173131"
+  },
+  {
+    "id": "No. 065",
+    "number": 65,
+    "name": "Witch's Rejuvenation Potion",
+    "rarity": "S",
+    "type": "Designated Slot",
+    "effect": "Witch's Rejuvenation Potion 魔女の若返り薬 - is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and so is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/0/03/Witch%27s_Rejuvenation_Potion_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20140217173315"
+  },
+  {
+    "id": "No. 066",
+    "number": 66,
+    "name": "Witch's Diet Pills",
+    "rarity": "B",
+    "type": "Designated Slot",
+    "effect": "Witch's Diet Pills 魔女の痩せ薬 - is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and so is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/6/6d/Witch%27s_Diet_Pills_%28G.I_card%29_66.png/revision/latest/scale-to-width-down/480?cb=20160525171607"
+  },
+  {
+    "id": "No. 067",
+    "number": 67,
+    "name": "Doyen's Growth Pills",
+    "rarity": "B",
+    "type": "Designated Slot",
+    "effect": "Doyen's Growth Pills 長老の背伸び薬 - is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and so is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/2/2c/Doyen%27s_Growth_Pills_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20140217173916"
+  },
+  {
+    "id": "No. 068",
+    "number": 68,
+    "name": "Doyen's Virility Pills",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "Doyen's Virility Pills 長老の精力増強薬 - is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and so is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/0/00/Doyen%27s_Virility_Pills_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/427?cb=20140217174916"
+  },
+  {
+    "id": "No. 069",
+    "number": 69,
+    "name": "Doyen's Hair Restorer",
+    "rarity": "B",
+    "type": "Designated Slot",
+    "effect": "Doyen's Hair Restorer (長老の毛生え薬) (ちょうろうのけはえぐすり, ''Chourou no Kewaedusuri'') is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/7/76/Doyen%27s_Hair_Restorer_%28G.I_card%29_69.png/revision/latest/scale-to-width-down/480?cb=20160525170658"
+  },
+  {
+    "id": "No. 070",
+    "number": 70,
+    "name": "Mad Scientist's Steroids",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "Mad Scientist's Steroids (マッド博士の筋肉増強剤) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/0/00/Mad_Scientist%27s_Steroids_%28G.I_card%29_70.png/revision/latest/scale-to-width-down/480?cb=20160525171538"
+  },
+  {
+    "id": "No. 071",
+    "number": 71,
+    "name": "Mad Scientist's Pheromones",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "Mad Scientist's Pheromones マッド博士のフェロモン剤 - is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and so is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/1/13/Mad_Scientist%27s_Pheromones_%28G.I_card%29_71.png/revision/latest/scale-to-width-down/480?cb=20160525171040"
+  },
+  {
+    "id": "No. 072",
+    "number": 72,
+    "name": "Mad Scientist's Plastic Surgery",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "Mad Scientist's Plastic Surgery マッド博士の整形マシーン - is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and so is required for a player to complete the...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/4/4e/Mad_Scientist%27s_Plastic_Surgery_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/428?cb=20140217175848"
+  },
+  {
+    "id": "No. 073",
+    "number": 73,
+    "name": "Night Jade",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "Night Jade (闇のヒスイ) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/8/8f/Night_Jade_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20150922085333"
+  },
+  {
+    "id": "No. 074",
+    "number": 74,
+    "name": "Sage's Aquamarine",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "Sage's Aquamarine (賢者のアクアマリン) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/2/21/Sage%27s_Aquamarine_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/428?cb=20140217180412"
+  },
+  {
+    "id": "No. 075",
+    "number": 75,
+    "name": "Wild Luck Alexandrite",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "Wild Luck Alexandrite (, ''Ki Un Arekisandoraito'') is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete th...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/0/0b/Wild_Luck_Alexandrite_GI_Card_75.png/revision/latest/scale-to-width-down/480?cb=20150917122208"
+  },
+  {
+    "id": "No. 076",
+    "number": 76,
+    "name": "Roaming Ruby",
+    "rarity": "B",
+    "type": "Designated Slot",
+    "effect": "Roaming Ruby (さまようルビー) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/f/f8/Roaming_Ruby_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/428?cb=20140217181645"
+  },
+  {
+    "id": "No. 077",
+    "number": 77,
+    "name": "Beauty Magnet Emerald",
+    "rarity": "S",
+    "type": "Designated Slot",
+    "effect": "Beauty Magnet Emerald (美を呼ぶエメラルド) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/2/2c/Beauty_Magnet_Emerald_GI_Card_77.png/revision/latest/scale-to-width-down/480?cb=20150916121608"
+  },
+  {
+    "id": "No. 078",
+    "number": 78,
+    "name": "Lonely Sapphire",
+    "rarity": "B",
+    "type": "Designated Slot",
+    "effect": "Lonely Sapphire (孤独なサファイヤ) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/d/df/Lonely_Sapphire_GI_Card_78.png/revision/latest/scale-to-width-down/480?cb=20150914200131"
+  },
+  {
+    "id": "No. 079",
+    "number": 79,
+    "name": "Rainbow Diamond",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "Rainbow Diamond (レインボーダイヤ, ''Reinboo Daia'') is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/8/88/Rainbow_Diamond_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20150922084759"
+  },
+  {
+    "id": "No. 080",
+    "number": 80,
+    "name": "Levitation Stone",
+    "rarity": "S",
+    "type": "Designated Slot",
+    "effect": "Levitation Stone (浮遊石) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and so is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/e/ef/Levitation_Stone_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/428?cb=20140217182534"
+  },
+  {
+    "id": "No. 081",
+    "number": 81,
+    "name": "Blue Planet",
+    "rarity": "SS",
+    "type": "Designated Slot",
+    "effect": "Blue Planet (ブループラネット, ''Burū Puranetto'') is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and so is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/6/6b/Blue_Planet_%28G.I_card%29.png/revision/latest/scale-to-width-down/450?cb=20130815135721"
+  },
+  {
+    "id": "No. 082",
+    "number": 82,
+    "name": "Staff of Judgment",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "Staff of Judgment (天罰のつえ) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/d/dd/Staff_of_Judgment_%28G.I_card%29_82.png/revision/latest/scale-to-width-down/480?cb=20160525172847"
+  },
+  {
+    "id": "No. 083",
+    "number": 83,
+    "name": "Sword of Truth",
+    "rarity": "B",
+    "type": "Designated Slot",
+    "effect": "Sword of Truth (, ''Shinjitsu no Tsurugi'') is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/0/0f/Sword_of_Truth_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/432?cb=20140217183207"
+  },
+  {
+    "id": "No. 084",
+    "number": 84,
+    "name": "Paladin's Necklace",
+    "rarity": "C",
+    "type": "Designated Slot",
+    "effect": "Paladin's Necklace (, ''Seikishi no Kubikazari'') is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and so is required for a player to complete t...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/f/f7/Paladin%27s_Necklace_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20140217184231"
+  },
+  {
+    "id": "No. 085",
+    "number": 85,
+    "name": "Sacrifice Armor",
+    "rarity": "S",
+    "type": "Designated Slot",
+    "effect": "Sacrifice Armor (身代わりの鎧) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/9/9d/Sacrifice_Armor_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/430?cb=20140217184449"
+  },
+  {
+    "id": "No. 086",
+    "number": 86,
+    "name": "Quiver of Frustration",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "Quiver of Frustration (挫折の弓) is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/b/bd/Quiver_of_Frustration_%28G.I_card%29_86.png/revision/latest/scale-to-width-down/480?cb=20160525172910"
+  },
+  {
+    "id": "No. 087",
+    "number": 87,
+    "name": "Shield of Faith",
+    "rarity": "S",
+    "type": "Designated Slot",
+    "effect": "Shield of Faith (信念の楯, ''Shinnen no Tate'') is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/7/72/Shield_of_Faith_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/430?cb=20140217184853"
+  },
+  {
+    "id": "No. 088",
+    "number": 88,
+    "name": "Eternal Hammer",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "Eternal Hammer (不死の大金槌, ''Fushi no Ookanazuchi'') is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/b/b7/Eternal_Hammer_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/428?cb=20140217185111"
+  },
+  {
+    "id": "No. 089",
+    "number": 89,
+    "name": "Tax Collector's Gauntlet",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "Tax Collector's Gauntlet (税務長の籠手, ''Zeimuchou no Kote'') is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to comple...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/6/6b/Tax_Collector%27s_Gauntlet_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/433?cb=20140217185309"
+  },
+  {
+    "id": "No. 090",
+    "number": 90,
+    "name": "Memory Helmet",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "Memory Helmet 記憶の兜 - is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/d/df/Memory_Helmet_%28G.I_card%29_90.png/revision/latest/scale-to-width-down/480?cb=20160525173101"
+  },
+  {
+    "id": "No. 091",
+    "number": 91,
+    "name": "Plastic King",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "Plastic King プラキング - is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and so is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/c/c3/Plastic_King_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/430?cb=20140217185800"
+  },
+  {
+    "id": "No. 092",
+    "number": 92,
+    "name": "Swap Ticket",
+    "rarity": "S",
+    "type": "Designated Slot",
+    "effect": "Swap Ticket 影武者切符 - is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/0/07/Swap_Ticket_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/430?cb=20140217190839"
+  },
+  {
+    "id": "No. 093",
+    "number": 93,
+    "name": "Book of Life",
+    "rarity": "B",
+    "type": "Designated Slot",
+    "effect": "Book of Life (人生図鑑, ''Jinsei Zukan'') is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/b/b7/Book_of_Life_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/430?cb=20140217191101"
+  },
+  {
+    "id": "No. 094",
+    "number": 94,
+    "name": "Bandit's Blade",
+    "rarity": "S",
+    "type": "Designated Slot",
+    "effect": "Bandit's Blade (盗賊の剣, ''Touzoku no Ken'') is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and so is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/c/ca/Bandit%27s_Blade_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/427?cb=20140217191313"
+  },
+  {
+    "id": "No. 095",
+    "number": 95,
+    "name": "Secret Cape",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "Secret Cape 秘密のマント - is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and so is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/1/19/Secret_Cape_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/428?cb=20140217191526"
+  },
+  {
+    "id": "No. 096",
+    "number": 96,
+    "name": "Clairvoyant Snake",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "Clairvoyant Snake (千里眼の蛇, ''Senrigan no Hebi'') is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and so is required for a player to complete the...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/d/de/Clairvoyant_Snake_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/429?cb=20140217191825"
+  },
+  {
+    "id": "No. 097",
+    "number": 97,
+    "name": "3-D Camera",
+    "rarity": "A",
+    "type": "Designated Slot",
+    "effect": "3-D Camera 3Dカメラ - is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/d/df/3-D_Camera_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/434?cb=20140217192025"
+  },
+  {
+    "id": "No. 098",
+    "number": 98,
+    "name": "Silver Dog",
+    "rarity": "S",
+    "type": "Designated Slot",
+    "effect": "Silver Dog (シルバードッグ, ''Shiirubaa Doggu'') is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and so is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/7/7e/Silver_Dog_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/430?cb=20140217192230"
+  },
+  {
+    "id": "No. 099",
+    "number": 99,
+    "name": "Panda Maid",
+    "rarity": "S",
+    "type": "Designated Slot",
+    "effect": "Panda Maid (メイドパンダ, ''Meido Panda'') is a card found in the Greed Island game. It is one of the game's 100 designated slot cards and so is required for a player to complete the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/2/2f/Panda_Maid_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/430?cb=20140217192420"
+  },
+  {
+    "id": "No. 100",
+    "number": 100,
+    "name": "Map of the Island",
+    "rarity": "C",
+    "type": "Free",
+    "effect": "Map of the Island 島の地図 - is a card found in the Greed Island game. This is a standard card that can be obtained by the player. These cards can be placed in the player's \"Free Slots\".",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/3/32/Map_%27empty%27_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20190116022319"
+  },
+  {
+    "id": "No. 101",
+    "number": 101,
+    "name": "Map of the Island",
+    "rarity": "C",
+    "type": "Free Slot",
+    "effect": "Map of the Island 島の地図 ''(detailed ver.)'' - is a card found in the Greed Island game. This is a standard card that can be obtained by the player. These cards can be placed in the player'...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/4/43/Map_%27detail%27_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20190116022531"
+  },
+  {
+    "id": "No. 102",
+    "number": 102,
+    "name": "Voucher",
+    "rarity": "SS",
+    "type": "Free Slot",
+    "effect": "Voucher 引き換え券 - is a card found in the Greed Island game. This is a standard card that can be obtained by the player. These cards can be placed in the player's \"Free Slots\".",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/0/0f/Voucher_%28G.I_card%29.png/revision/latest/scale-to-width-down/440?cb=20130815223937"
+  },
+  {
+    "id": "No. 110",
+    "number": 110,
+    "name": "Ruler's Invitation",
+    "rarity": "SS",
+    "type": "Free Slot",
+    "effect": "Ruler's Invitation 支配者からの招待 - is a card found in the Greed Island game. This is a standard card that can be obtained by the player. These cards can be placed in the player's \"Free Slots\".",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/7/7c/110_Ruler%27s_Invitation_v2.png/revision/latest/scale-to-width-down/449?cb=20130815224516"
+  },
+  {
+    "id": "No. 163",
+    "number": 163,
+    "name": "Sick Villagers",
+    "rarity": "C",
+    "type": "Free",
+    "effect": "Sick Villagers 病気の村人 - is a card found in the Greed Island game. This is a standard card that can be obtained by the player. These cards can be placed in the player's \"Free Slots\".",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/6/6a/Sick_Villagers_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20190116022629"
+  },
+  {
+    "id": "No. 263",
+    "number": 263,
+    "name": "Healthy Villagers",
+    "rarity": "C",
+    "type": "Free",
+    "effect": "Healthy Villagers (元気な村人) (げんきなむらびと, ''Genki no Murabito'') is a card found in the Greed Island game. This is a standard card that can be obtained by the player. These cards can be placed...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/3/3a/Healthy_Villagers_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20190116022717"
+  },
+  {
+    "id": "No. 266",
+    "number": 266,
+    "name": "Transport Ticket",
+    "rarity": "B",
+    "type": "Free Slot",
+    "effect": "Transport Ticket (, ''Tsūkō Chiketto'') is a card found in the Greed Island game. This is a standard card that can be obtained by the player. These cards can be placed in the player's \"Fr...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/9/99/Passage_Ticket_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20220915021739"
+  },
+  {
+    "id": "No. 572",
+    "number": 572,
+    "name": "Giant Cyclops",
+    "rarity": "C",
+    "type": "Free Slot",
+    "effect": "Giant Cyclops (, ''1tsu Me Kyojin'') is a card found in the Greed Island game. This is a standard card that can be obtained by the player. These cards can be placed in the player's \"Free...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/6/6c/Giant_Cyclops_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20230507020800"
+  },
+  {
+    "id": "No. 585",
+    "number": 585,
+    "name": "Bubble Horse",
+    "rarity": "C",
+    "type": "Free Slot",
+    "effect": "Bubble Horse (バブルホース, ''Baburu Hōsu'') is a card found in the Greed Island game. This is a standard card that can be obtained by the player. These cards can be placed in the player's \"Fre...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/3/32/Bubble_Horse_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20190115235631"
+  },
+  {
+    "id": "No. 598",
+    "number": 598,
+    "name": "Chief of Wolf Pack",
+    "rarity": "C",
+    "type": "Free Slot",
+    "effect": "Chief of Wolf Pack (, ''Gunrō no Osa''—or \"Alpha Wolf\" in the Viz translation) is a card found in the Greed Island game. This is a standard card that can be obtained by the player. These...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/8/87/Chief_of_Wolf_Pack_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20220915020937"
+  },
+  {
+    "id": "No. 607",
+    "number": 607,
+    "name": "J10,000",
+    "rarity": "C",
+    "type": "Free Slot",
+    "effect": "J10,000 (, ''10000 Jenī'') is a card found in the Greed Island game. This is a standard card that can be obtained by the player. Hunter × Hunter - Volume 14, Chapter 129 These cards can b...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/d/dd/10000J_%28G.I_Card_1999%29.png/revision/latest?cb=20130919234643"
+  },
+  {
+    "id": "No. 673",
+    "number": 673,
+    "name": "Hyper Puffball",
+    "rarity": "C",
+    "type": "Free Slot",
+    "effect": "Hyper Puffball (マリモッチ, ''Marimocchi'') is a card found in the Greed Island game. This is a standard card that can be obtained by the player. Hunter × Hunter - Volume 14, Chapter 137 These...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/3/3e/Hyper_Puffball_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20190116005850"
+  },
+  {
+    "id": "No. 697",
+    "number": 697,
+    "name": "Melanin Lizard",
+    "rarity": "C",
+    "type": "Free Slot",
+    "effect": "Melanin Lizard (メラニントカゲ, ''Meranin Tokage'') is a card found in the Greed Island game. This is a standard card that can be obtained by the player. These cards can be placed in the player'...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/b/b9/Melanin_Lizard_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20190116011250"
+  },
+  {
+    "id": "No. 711",
+    "number": 711,
+    "name": "Radio Rat",
+    "rarity": "C",
+    "type": "Free Slot",
+    "effect": "Radio Rat (リモコンラット, ''Rimokon Ratto''—lit. \"Remote Control Rat\") is a card found in the Greed Island game. This is a standard card that can be obtained by the player. These cards can be p...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/6/6e/Radio_Rat_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20190116012343"
+  },
+  {
+    "id": "No. 1217",
+    "number": 1217,
+    "name": "Galgaida",
+    "rarity": "C",
+    "type": "Free Slot",
+    "effect": "Galgaida (ガルガイダー, ''Garugaidā''—or \"Gargaidar\" in the Viz translation) is a card found in the Greed Island game. This is a standard card that can be obtained by the player. These cards ca...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/2/23/Galgaida_%28G.I_card%29.png/revision/latest/scale-to-width-down/446?cb=20130816133702"
+  },
+  {
+    "id": "No. 14170",
+    "number": 14170,
+    "name": "Gasoline",
+    "rarity": "C",
+    "type": "Free Slot",
+    "effect": "Gasoline (ガソリン, ''Gasorin'') is a card found in the Greed Island game. This is a standard card that can be obtained by the player. These cards can be placed in the player's \"Free Slots\".",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/8/8b/Gasoline_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20190116021643"
+  },
+  {
+    "id": "No. 21449",
+    "number": 21449,
+    "name": "Rock",
+    "rarity": "C",
+    "type": "Free Slot",
+    "effect": "Rock (石) is a card found in the Greed Island game. This is a standard card that can be obtained by the player. These cards can be placed in the player's \"Free Slots\".",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/a/a8/Rock_%28G.I_card%29.png/revision/latest/scale-to-width-down/450?cb=20130816134835"
+  },
+  {
+    "id": "No. 25008",
+    "number": 25008,
+    "name": "Large Rock",
+    "rarity": "C",
+    "type": "Free Slot",
+    "effect": "Large Rock (大きな岩, ''Ōkina Iwa'') is a card found in the Greed Island game. This is a standard card that can be obtained by the player. These cards can be placed in the player's \"Free Slots\".",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/c/ce/Large_Rock_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/428?cb=20190117194603"
+  },
+  {
+    "id": "No. 000",
+    "number": 0,
+    "name": "Debug",
+    "rarity": "C",
+    "type": "Game Master Spell",
+    "effect": "Debug (|''Debug''}}, rom. ''Debaggu'') is a card exclusive to the physical Greed Island card set.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/e/e0/Debug_%28G.I_card%29.png/revision/latest/scale-to-width-down/447?cb=20240603055707"
+  },
+  {
+    "id": "No. 001",
+    "number": 1,
+    "name": "Under Control",
+    "rarity": "C",
+    "type": "Game Master Spell",
+    "effect": "Under Control (|''Under Control''}}, rom. ''Andā・Kontorōru'') is a card exclusive to the physical Greed Island card set.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/0/0a/Under_Control_%28G.I_card%29.png/revision/latest/scale-to-width-down/445?cb=20240603060001"
+  },
+  {
+    "id": "No. 002",
+    "number": 2,
+    "name": "Reset",
+    "rarity": "C",
+    "type": "Game Master Spell",
+    "effect": "Reset (|''Reset''}}, rom. ''Risetto'') is a card exclusive to the physical Greed Island card set.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/9/97/Reset_%28G.I_card%29.png/revision/latest/scale-to-width-down/421?cb=20240603060041"
+  },
+  {
+    "id": "No. 003",
+    "number": 3,
+    "name": "Eliminate",
+    "rarity": "C",
+    "type": "Game Master Spell",
+    "effect": "Eliminate (|''Elimination''}}, rom. ''Eliminēto'') is a spell card reserved for the Game Masters of Greed Island game. It allows the caster to remove any objects or individuals that enter...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/b/b0/Elliminate_%28G.I_card%29.png/revision/latest/scale-to-width-down/446?cb=20130813012218"
+  },
+  {
+    "id": "No. 1001",
+    "number": 1001,
+    "name": "Peek",
+    "rarity": "C",
+    "type": "Spell",
+    "effect": "Peek (lit. |''Furtive Glance''}}, rom. ''Sutīru'') is a spell card that can be found in the Greed Island game. It allows a player to view all the free slots of one target player that they...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/2/24/Steal_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222041028"
+  },
+  {
+    "id": "No. 1002",
+    "number": 1002,
+    "name": "Fluoroscopy",
+    "rarity": "C",
+    "type": "Spell",
+    "effect": "Fluoroscopy (|''Seeing Through''}}, rom. ''Fururasukopī'') is a spell card that can be found in the Greed Island game. It allows a player to view all the restricted slots of one target pl...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/b/be/Fluroscopy_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222041056"
+  },
+  {
+    "id": "No. 1003",
+    "number": 1003,
+    "name": "Defensive Wall",
+    "rarity": "C",
+    "type": "Spell",
+    "effect": "Defensive Wall (, rom. ''Difenshibu Wōru'') is a spell card that can be found in the Greed Island game. It allows a player to protect themselves from a single spell card cast by another p...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/c/c5/Defensive_Wall_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222041109"
+  },
+  {
+    "id": "No. 1004",
+    "number": 1004,
+    "name": "Reflect",
+    "rarity": "C",
+    "type": "Spell",
+    "effect": "Reflect (lit. }}, rom. ''Rifurekushon'') is a spell card that can be found in the Greed Island game. It allows a player to reflect a single spell cast upon them by a player they have prev...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/8/89/Reflection_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222041129"
+  },
+  {
+    "id": "No. 1005",
+    "number": 1005,
+    "name": "Magnetic Force",
+    "rarity": "C",
+    "type": "Spell",
+    "effect": "Magnetic Force (, rom. ''Magunetikku Fōsu'') is a spell card that can be found in the Greed Island game. It allows a player to be transported to the location of another player they have p...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/c/cc/Magnetic_Force_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222041148"
+  },
+  {
+    "id": "No. 1006",
+    "number": 1006,
+    "name": "Pickpocket",
+    "rarity": "C",
+    "type": "Spell",
+    "effect": "Pickpocket (, rom. ''Pikkupoketto'') is a spell card that can be found in the Greed Island game. It allows for a player to steal a random card from the target player's free slots.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/e/e6/Pick_Pocket_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222041204"
+  },
+  {
+    "id": "No. 1007",
+    "number": 1007,
+    "name": "Thief",
+    "rarity": "C",
+    "type": "Spell",
+    "effect": "Thief (|''Theft''}}, rom. ''Shīfu'') is a spell card that can be found in the Greed Island game. It allows a player to steal a random card from the target player's designated slots.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/0/0b/Thief_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222041220"
+  },
+  {
+    "id": "No. 1008",
+    "number": 1008,
+    "name": "Trade",
+    "rarity": "C",
+    "type": "Spell",
+    "effect": "Trade (|''Exchange''}}, rom. ''Torēdo'') is a spell card that can be found in the Greed Island game. It allows a player to randomly swap a card from their own card binder with the target...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/a/a4/Trade_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222041239"
+  },
+  {
+    "id": "No. 1009",
+    "number": 1009,
+    "name": "Return",
+    "rarity": "C",
+    "type": "Spell",
+    "effect": "Return (, rom. ''Ritān'') is a spell card that can be found in the Greed Island game. It allows for a player to instantly transport back to a previously visited city.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/4/45/Return_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222041252"
+  },
+  {
+    "id": "No. 1010",
+    "number": 1010,
+    "name": "Mimic",
+    "rarity": "A",
+    "type": "Spell",
+    "effect": "Mimic (lit. |''Transform''}}, rom. ''Toransufōmu'') is a spell card that can be found in the Greed Island game. It allows the caster to transform one of their cards into a card they alrea...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/c/c2/Transform_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222041307"
+  },
+  {
+    "id": "No. 1011",
+    "number": 1011,
+    "name": "Clone",
+    "rarity": "C",
+    "type": "Spell",
+    "effect": "Clone (|''Duplication''}}, rom. ''Kurōn'') is a spell card that can be found in the Greed Island game. It allows for a player to change a card of their choice into a random card from the...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/a/af/Clone_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222041417"
+  },
+  {
+    "id": "No. 1012",
+    "number": 1012,
+    "name": "Relegate",
+    "rarity": "C",
+    "type": "Spell",
+    "effect": "Relegate (|''Relegation''}}, rom. ''Rerugēto'') is a spell card that can be found in the Greed Island game, that allows for a player to transport the target player to a random place anywh...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/c/cd/Railguide_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222041428"
+  },
+  {
+    "id": "No. 1013",
+    "number": 1013,
+    "name": "Origin",
+    "rarity": "C",
+    "type": "Spell",
+    "effect": "Origin (lit. |''Original Intent''}}, rom. ''Depāchā'') is a spell card that can be found in the Greed Island game. It allows for a player to transport the target player back to the starti...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/7/71/Departure_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222041443"
+  },
+  {
+    "id": "No. 1014",
+    "number": 1014,
+    "name": "Leave",
+    "rarity": "B",
+    "type": "Spell",
+    "effect": "Leave (|''Secession''}}, rom. ''Rību'') is a spell card that can be found in the Greed Island game. It forces the target player to be transported out of the game.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/0/0f/Leap_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222041456"
+  },
+  {
+    "id": "No. 1015",
+    "number": 1015,
+    "name": "Clairvoyance",
+    "rarity": "C",
+    "type": "Spell",
+    "effect": "Clairvoyance (lit. }}, rom. ''Saitobijon'') is a spell card that can be found in the Greed Island game. It allows a player to see the details regarding another player's binder, including...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/0/03/Sightvision_Rule_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222041510"
+  },
+  {
+    "id": "No. 1016",
+    "number": 1016,
+    "name": "Drift",
+    "rarity": "C",
+    "type": "Spell",
+    "effect": "Drift (, rom. ''Dorifuto'') is a spell card that can be found in the Greed Island game. It transports the caster to a random city or town they have not visited yet.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/8/8a/Drift_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222041523"
+  },
+  {
+    "id": "No. 1017",
+    "number": 1017,
+    "name": "Collision",
+    "rarity": "C",
+    "type": "Spell",
+    "effect": "Collision (, rom. ''Korijon'') is a spell card that can be found in the Greed Island game. It allows the caster to be transported to the location of a previously unknown game player.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/3/3c/Collision_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222041539"
+  },
+  {
+    "id": "No. 1018",
+    "number": 1018,
+    "name": "Levy",
+    "rarity": "B",
+    "type": "Spell",
+    "effect": "Levy (, rom. ''Rebi'') is a spell card found in the Greed Island game. It allows a player to steal a random card from every player within a 20 meter radius.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/4/42/Levy_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222041550"
+  },
+  {
+    "id": "No. 1019",
+    "number": 1019,
+    "name": "Drawbridge",
+    "rarity": "C",
+    "type": "Spell",
+    "effect": "Drawbridge (lit. }}, rom. ''Kyassuru Gēto'') is a spell card found in the Greed Island game. It protects the caster against a single short-range regular spell used by another player.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/5/57/Castle_Gate_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222041604"
+  },
+  {
+    "id": "No. 1020",
+    "number": 1020,
+    "name": "Fake",
+    "rarity": "C",
+    "type": "Spell",
+    "effect": "Fake (, rom. ''Feiku'') is a spell card found in the Greed Island game. When used, it will transform itself into a restricted card from 1-99. The result is purely to scam other players as...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/e/ef/Fake_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222041616"
+  },
+  {
+    "id": "No. 1021",
+    "number": 1021,
+    "name": "Mug",
+    "rarity": "B",
+    "type": "Spell",
+    "effect": "Mug (lit. |''Robbery''}}, rom. ''Robu'') is a spell card found in the Greed Island game. It allows a player to steal any one card from the target player.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/f/fc/Rob_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222041731"
+  },
+  {
+    "id": "No. 1022",
+    "number": 1022,
+    "name": "Corruption",
+    "rarity": "C",
+    "type": "Spell",
+    "effect": "Corruption (|''Crashing''}}, rom. ''Kurapushon'') is a spell card found in the Greed Island game. It allows the caster to transform a card of the target that is B-Rank or higher into a D-...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/e/e7/Corruption_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222041745"
+  },
+  {
+    "id": "No. 1023",
+    "number": 1023,
+    "name": "Compromise",
+    "rarity": "B",
+    "type": "Spell",
+    "effect": "Compromise (}}, rom. ''Konpuromaizu'') is a spell card found in the Greed Island game. It allows a player to destroy one target player's A-Rank or above card, who can replace it with one...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/c/c2/Compromise_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222041759"
+  },
+  {
+    "id": "No. 1024",
+    "number": 1024,
+    "name": "Dispel",
+    "rarity": "C",
+    "type": "Spell",
+    "effect": "Dispel (lit. |''Penetration''}}, rom. ''Penetorēto'') is a spell card found in the Greed Island game. It reverts all the transformed cards in the possession of a target player to their or...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/c/ce/Penetrate_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222041814"
+  },
+  {
+    "id": "No. 1025",
+    "number": 1025,
+    "name": "Blackout Curtain",
+    "rarity": "C",
+    "type": "Spell",
+    "effect": "Blackout Curtain (, rom. ''Burakkuauto Kāten'') is a spell card found in the Greed Island game. It allows a player to protect themselves from the next \"Peek\" or \"Fluoroscopy\" cast on them.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/9/97/Blackout_Curtain_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222041827"
+  },
+  {
+    "id": "No. 1026",
+    "number": 1026,
+    "name": "Holy Water",
+    "rarity": "A",
+    "type": "Spell",
+    "effect": "Holy Water (, rom. ''Hōrī Uōtā'') is a spell card found in the Greed Island game. It protects the caster from other player's attack spells 10 times.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/a/a0/Holy_Water_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222041839"
+  },
+  {
+    "id": "No. 1027",
+    "number": 1027,
+    "name": "Trace",
+    "rarity": "C",
+    "type": "Spell",
+    "effect": "Trace (|''Pursuit''}}, rom. ''Torēsu'') is a spell card found in the Greed Island game. It allows the caster to view the target's location at all times.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/d/d1/Trace_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222041852"
+  },
+  {
+    "id": "No. 1028",
+    "number": 1028,
+    "name": "Rock Toss",
+    "rarity": "C",
+    "type": "Spell",
+    "effect": "Rock Toss (lit. }}, rom. ''Sutōn Surō'') is a spell card found in the Greed Island game. It allows a player to destroy a random card from another player's free slots.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/9/92/Stone_Throw_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222041906"
+  },
+  {
+    "id": "No. 1029",
+    "number": 1029,
+    "name": "Bullet",
+    "rarity": "C",
+    "type": "Spell",
+    "effect": "Bullet (lit. |''Assassin's Bullet''}}, rom. ''Shotto'') is a spell card found in the Greed Island game. It allows a player to destroy a random card in the target player's restricted card...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/f/f9/Shot_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222041920"
+  },
+  {
+    "id": "No. 1030",
+    "number": 1030,
+    "name": "Guidepost",
+    "rarity": "C",
+    "type": "Spell",
+    "effect": "Guidepost (, rom. ''Gaido Posuto'') is a spell card found in the Greed Island game. When cast, it reveals the location of a restricted card of the caster's choice, except for #000.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/0/00/Guidepost_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222041932"
+  },
+  {
+    "id": "No. 1031",
+    "number": 1031,
+    "name": "Analysis",
+    "rarity": "C",
+    "type": "Spell",
+    "effect": "Analysis (, rom. ''Anarishisu'') is a spell card found in the Greed Island game. It allows the caster to read the text of a numbered card of their choice, except for #000.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/5/59/Analysis_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222042051"
+  },
+  {
+    "id": "No. 1032",
+    "number": 1032,
+    "name": "Lottery",
+    "rarity": "C",
+    "type": "Spell",
+    "effect": "Lottery (, rom. ''Rotorī'') is a spell card found in the Greed Island game. When cast, it transforms into a random item card.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/a/a8/Lottery_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222042102"
+  },
+  {
+    "id": "No. 1033",
+    "number": 1033,
+    "name": "Cling",
+    "rarity": "C",
+    "type": "Spell",
+    "effect": "Cling (lit. |''Close Contact''}}, rom. ''Adohījon'') is a spell card found in the Greed Island game. It allows the caster to view the contents of the target player's restricted card slots...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/d/dc/Adhesion_Rule_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222042114"
+  },
+  {
+    "id": "No. 1034",
+    "number": 1034,
+    "name": "Purify",
+    "rarity": "C",
+    "type": "Spell",
+    "effect": "Purify (|''Purification''}}, rom. ''Pyurifai'') is a spell card found in the Greed Island game. It allows the caster to return a transformed card to its original state.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/5/5c/Purify_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222042125"
+  },
+  {
+    "id": "No. 1035",
+    "number": 1035,
+    "name": "Fortress",
+    "rarity": "S",
+    "type": "Spell",
+    "effect": "Fortress (lit. |''Robustness''}}, rom. ''Purizun'') is a spell card found in the Greed Island game. It permanently protects one page of restricted slot cards against theft or destruction...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/c/cd/Prison_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222053208"
+  },
+  {
+    "id": "No. 1036",
+    "number": 1036,
+    "name": "Eye of God",
+    "rarity": "S",
+    "type": "Spell",
+    "effect": "Eye of God (lit. }}, rom. ''Goddo Ai'') is a spell card found in the Greed Island game. It allows the caster to maintain the effect of \"List\" and \"Analysis\" on all the restricted slot car...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/e/e4/God_Eye_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222053229"
+  },
+  {
+    "id": "No. 1037",
+    "number": 1037,
+    "name": "Recycle",
+    "rarity": "C",
+    "type": "Spell",
+    "effect": "Recycle (, rom. ''Risaikuru'') is a spell card found in the Greed Island game. It allows the caster to turn an item back into a card, provided that the card is below C-Rank.",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/6/61/Recycle_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222042206"
+  },
+  {
+    "id": "No. 1038",
+    "number": 1038,
+    "name": "List",
+    "rarity": "C",
+    "type": "Spell",
+    "effect": "List (|''List of Names''}}, rom. ''Risuto'') is a spell card found in the Greed Island game. It allows the caster to view the number of other players currently in possession of a target c...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/0/09/List_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222042219"
+  },
+  {
+    "id": "No. 1039",
+    "number": 1039,
+    "name": "Accompany",
+    "rarity": "C",
+    "type": "Spell",
+    "effect": "Accompany (|''Accompaniment''}}, rom. ''Akanpanī'') is a spell card found in the Greed Island game. It allows for the user and everyone within a 20 meter radius to be transported to a pre...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/a/a5/Accompany_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222042230"
+  },
+  {
+    "id": "No. 1040",
+    "number": 1040,
+    "name": "Contact",
+    "rarity": "C",
+    "type": "Spell",
+    "effect": "Contact (|''Telecommunications''}}, rom. ''Kontakuto'') is a spell card found in the Greed Island game. It allows a player to converse with another player they have previously met through...",
+    "illustration": "https://static.wikia.nocookie.net/hunterxhunter/images/b/b1/Contact_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/431?cb=20190222042242"
+  }
+]
